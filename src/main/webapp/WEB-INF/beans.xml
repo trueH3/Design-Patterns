@@ -9,4 +9,12 @@
     <alternatives>
         <class>DI_EE.alternativeAnnotation.UDRAlternative2</class>
     </alternatives>
+    <!--
+        <decorators>
+
+            <class>decoratorEE.BlackFridayDiscountDecorator</class>
+
+            <class>decoratorEE.PriceDiscountDecorator</class>
+        </decorators>
+    -->
 </beans>
