@@ -17,4 +17,8 @@
             <class>decoratorEE.PriceDiscountDecorator</class>
         </decorators>
     -->
+
+    <interceptors>
+        <class>InterceptorEE.usingCDI.SimpleBeanInterceptor</class>
+    </interceptors>
 </beans>

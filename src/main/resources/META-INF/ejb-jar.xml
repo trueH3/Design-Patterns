@@ -1,0 +1,20 @@
+<!--
+<?xml version="1.0" encoding="UTF-8"?>
+<ejb-jar xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/ejb-jar_3_2.xsd"
+         version="3.2">
+
+    <interceptors>
+        <interceptor>
+            <interceptor-class>InterceptorEE.exerciseOutOfBook.SimpleInterceptor</interceptor-class>
+        </interceptor>
+    </interceptors>
+    <assembly-descriptor>
+        <interceptor-binding>
+            <ejb-name>SimpleEJB</ejb-name>
+            <interceptor-class>InterceptorEE.exerciseOutOfBook.SimpleInterceptor</interceptor-class>
+        </interceptor-binding>
+    </assembly-descriptor>
+</ejb-jar>
+-->

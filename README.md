@@ -4,5 +4,10 @@ This repository contains implementation of few design patterns that I've learned
 
 **Implemented design patterns**
 * Singleton
+* Decorator
+* Dependency Injection
+* Factory
 
+**Implemented programming paradigms**
+* Interceptors
 
