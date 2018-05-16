@@ -7,6 +7,7 @@ This repository contains implementation of few design patterns that I've learned
 * Decorator
 * Dependency Injection
 * Factory
+* Asynchronous
 
 **Implemented programming paradigms**
 * Interceptors
